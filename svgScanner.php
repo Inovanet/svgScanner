@@ -6,7 +6,7 @@
  * Aufruf: php crawler.php example.com
  */
 
-$maxPages = 500;
+$maxPages = 5000;
 $visited = [];
 $queue = [];
 
