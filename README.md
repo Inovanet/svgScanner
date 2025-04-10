@@ -1,4 +1,7 @@
 # svgScanner
+
+ACHTUNG: Sobald Sachen via JS / iframe einegfügt werden, werden diese nicht erkannt!
+
 usage: 
 
 ````
