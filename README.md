@@ -7,4 +7,6 @@ usage:
 > cd svgScanner/
 > php svgScanner.php https://www.inovanet.de/
 
+> php formScanner.php https://www.inovanet.de/
+
 ````
